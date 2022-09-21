@@ -43,9 +43,9 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 ###### Views
 
-####### Street
+• Street
 
-####### Satellite
+• Satellite
 
 ###### Major Earthquake
 
@@ -53,9 +53,9 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 ###### Views
 
-####### Street
+• Street
 
-####### Satellite
+• Satellite
 
 ###### Additional Map
  
