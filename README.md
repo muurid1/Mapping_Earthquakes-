@@ -39,7 +39,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 ##### Tectonic Plate Data
 
-!!!! Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll We have added the  tectonic plate data using d3.json(), and added the data using the geoJSON() layer, set the tectonic plate LineString data to stand out on the map, and add the tectonic plate data to the overlay object with the earthquake data.
+In this deliverable, we have added the  tectonic plate data using d3.json()as well as the data using the geoJSON() layer, and then set the tectonic plate LineString data to stand out on the map, and finally we have added the tectonic plate data to the overlay object with the earthquake data. We were able to do that using Javascript, Leaflet.js and geoJSON data.
 
 ###### Views
 
@@ -57,7 +57,7 @@ The earthquake data is represented on the maps in relation to the tectonic plate
 
 ###### Major Earthquake
 
-!!!!!! Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll add major earthquake data to the map using d3.json(). You'll also add color and set the radius of the circle markers based on the magnitude of earthquake, and add a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON().
+Using  JavaScript, Leaflet.js, and geoJSON data, we have added major earthquake data to the map using d3.json() and we also have  added color and set the radius of the circle markers based on the magnitude of earthquake, and finally, we added a popup marker for each earthquake to displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON().
 
 ###### Views
 
