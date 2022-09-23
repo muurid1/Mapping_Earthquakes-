@@ -73,6 +73,6 @@ We have used JavaScript and Leaflet.js, in this deliverable to add a third map s
 
 <img width="1666" alt="Earthquake_Tectonic_Dark_View" src="https://user-images.githubusercontent.com/107282754/191815537-f072f4ea-5411-4028-a30a-82995b4df4b2.png">
 
-• Earthquake Major Dark View
+• Earthquake_Major_Dark_View
 
 <img width="1663" alt="Earthquake_Major_Dark_View" src="https://user-images.githubusercontent.com/107282754/191815720-df6857c3-5d88-41b6-9b17-f953eda9b719.png">
