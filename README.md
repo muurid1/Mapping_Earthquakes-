@@ -51,10 +51,6 @@ In this deliverable, we have added the  tectonic plate data using d3.json()as we
 
 <img width="1646" alt="Earthquake_Tectonic_Satellite_View" src="https://user-images.githubusercontent.com/107282754/191815479-5e3c6694-b6ce-47b7-8bdf-4dab611ce1b4.png">
 
-• Dark
-
-<img width="1666" alt="Earthquake_Tectonic_Dark_View" src="https://user-images.githubusercontent.com/107282754/191815537-f072f4ea-5411-4028-a30a-82995b4df4b2.png">
-
 ###### Major Earthquake
 
 Using  JavaScript, Leaflet.js, and geoJSON data, we have added major earthquake data to the map using d3.json() and we also have  added color and set the radius of the circle markers based on the magnitude of earthquake, and finally, we added a popup marker for each earthquake to displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON().
@@ -69,11 +65,14 @@ Using  JavaScript, Leaflet.js, and geoJSON data, we have added major earthquake 
 
 <img width="1673" alt="Earthquake_Major_Satellite_View" src="https://user-images.githubusercontent.com/107282754/191815663-49d19563-ebf0-4633-90ae-d281c9b5ac4e.png">
 
-• Dark
-
-<img width="1663" alt="Earthquake_Major_Dark_View" src="https://user-images.githubusercontent.com/107282754/191815720-df6857c3-5d88-41b6-9b17-f953eda9b719.png">
-
-
 ###### Additional Map
  
-The additonal Maps were added to each of deliverable 1 and 2.
+We have used JavaScript and Leaflet.js, in this deliverable to add a third map style to the earthquake map.
+
+• Earthquake_Tectonic_Dark_View
+
+<img width="1666" alt="Earthquake_Tectonic_Dark_View" src="https://user-images.githubusercontent.com/107282754/191815537-f072f4ea-5411-4028-a30a-82995b4df4b2.png">
+
+• Earthquake Major Dark View
+
+<img width="1663" alt="Earthquake_Major_Dark_View" src="https://user-images.githubusercontent.com/107282754/191815720-df6857c3-5d88-41b6-9b17-f953eda9b719.png">
